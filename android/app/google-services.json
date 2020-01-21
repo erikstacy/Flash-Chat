@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367613976907",
+    "firebase_url": "https://flash-chat-ec15c.firebaseio.com",
+    "project_id": "flash-chat-ec15c",
+    "storage_bucket": "flash-chat-ec15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367613976907:android:6ae54810e0df7c1b52c8ce",
+        "android_client_info": {
+          "package_name": "com.MugenCodes.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367613976907-c4o34ffe5r4asu5pjv7o46o1vd4r6mja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedOGnZRKWwOvXgiRvpU4BfoQmLMyl3T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367613976907-c4o34ffe5r4asu5pjv7o46o1vd4r6mja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
